@@ -1,0 +1,20 @@
+{
+  "name": "support-tickets",
+  "version": "1.0.0",
+  "description": "API de gerencimento de tickets de suporte.",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellysonmartins/support-tickets.git"
+  },
+  "author": "Wellyson Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wellysonmartins/support-tickets/issues"
+  },
+  "homepage": "https://github.com/wellysonmartins/support-tickets#readme"
+}
